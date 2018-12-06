@@ -4,7 +4,7 @@
 #
 Name     : perl-Class-Data-Accessor
 Version  : 0.04004
-Release  : 8
+Release  : 9
 URL      : https://cpan.metacpan.org/authors/id/C/CL/CLACO/Class-Data-Accessor-0.04004.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/C/CL/CLACO/Class-Data-Accessor-0.04004.tar.gz
 Summary  : 'Inheritable, overridable class and instance data accessor creation'
