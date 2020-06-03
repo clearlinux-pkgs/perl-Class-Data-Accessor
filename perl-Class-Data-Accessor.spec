@@ -4,7 +4,7 @@
 #
 Name     : perl-Class-Data-Accessor
 Version  : 0.04004
-Release  : 15
+Release  : 16
 URL      : https://cpan.metacpan.org/authors/id/C/CL/CLACO/Class-Data-Accessor-0.04004.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/C/CL/CLACO/Class-Data-Accessor-0.04004.tar.gz
 Summary  : 'Inheritable, overridable class and instance data accessor creation'
@@ -83,4 +83,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.2/Class/Data/Accessor.pm
+/usr/lib/perl5/vendor_perl/5.30.3/Class/Data/Accessor.pm
